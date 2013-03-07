@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ZRobot!</string>
+    <string name="app_name">ZRobot</string>
+    <string name="videoaddr1">carvideoaddr</string>
+    <string name="videoaddr2">armvideoaddr</string>
+    <string name="videoaddr3">opencvvideoaddr</string>
+    <string name="distipaddr">distipaddr</string>
+    <string name="disttcpport">disttcpport</string>
+    <string name="tcpstate_online">Online</string>
+    <string name="tcpstate_offline">Offline</string>
+
+</resources>
